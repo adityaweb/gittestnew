@@ -3,5 +3,3 @@ first
 second
 
 third
-
-fourth
